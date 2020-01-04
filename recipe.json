@@ -12,6 +12,20 @@
             "merge": ["https://gitlab.com/lenny09918050/uiressources-template"]
         }
     ],
+    "page-heads": [
+        ["directory"],
+        ["merge"],
+        {
+            "merge": ["https://github.com/JhonnyJason/page-heads-template"]
+        }
+    ],
+    "patches": [
+        ["directory"],
+        ["merge"],
+        {
+            "merge": ["https://github.com/JhonnyJason/patches-template"]
+        }
+    ],
     "source": [
         ["directory"],
         ["merge"],
