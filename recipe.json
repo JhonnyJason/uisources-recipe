@@ -2,14 +2,14 @@
     "staticBase": [
         ["merge"],
         {
-            "merge": ["https://gitlab.com/lenny09918050/lenny-unlicense"]
+            "merge": ["https://github.com/JhonnyJason/lenny-unlicense"]
         }
     ],
     "ressources": [
         ["directory"],
         ["merge"],
         {
-            "merge": ["https://gitlab.com/lenny09918050/uiressources-template"]
+            "merge": ["https://github.com/JhonnyJason/uiressources-template"]
         }
     ],
     "page-heads": [
@@ -30,7 +30,7 @@
         ["directory"],
         ["merge"],
         {
-            "merge": ["https://gitlab.com/lenny09918050/uisource-template"]
+            "merge": ["https://github.com/JhonnyJason/uisource-template"]
         }
     ]
 }
